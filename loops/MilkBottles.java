@@ -15,7 +15,7 @@ import java.util.Scanner;
 
  		for(int i =bottles;i>0;i--)
  		{
- 			System.out.println(i+" bottles of milk on the wall...");  //The %d is replaced by the variable 'i'
+ 			System.out.println(i+" bottles of milk on the wall...");  
  		}
  	}
 	
