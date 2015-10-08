@@ -14,7 +14,7 @@
 
 
 	
-	Here is an example of the while loop:
+	Here is an example of the do while loop:
 
 	@author : Udemy
 	date : 8th October 2015
